@@ -14,12 +14,12 @@ The purpose of smagit is to provide the glory of Magit for non-Emacs users. This
 
 ## Installation
 
-    1. Install [Emacs](http://emacs.sexy/) if you don't already have it.
-    2. Clone this repo: `git clone https://github.com/dangirsh/smagit`
-    4. Put a symlink to the top-level `smagit` script somewhere in your $PATH.
-    5. Execute `smagit` from within any Git repository.
-    6. Wait for packages to install (only happens the first time)
-    7. Upon success, you should see the "magit status" screen.
+1. Install [Emacs](http://emacs.sexy/) if you don't already have it.
+2. Clone this repo: `git clone https://github.com/dangirsh/smagit`
+3. Put a symlink to the top-level `smagit` script somewhere in your $PATH.
+4. Execute `smagit` from within any Git repository.
+5. Wait for packages to install (only happens the first time)
+6. Upon success, you should see the "magit status" screen.
 
 ## Usage
 
@@ -29,11 +29,11 @@ From the "magit status" screen, get help by hitting the `?` key.
 
 Useful links:
 
-    - [Magit documentation]()
-    - [Magit tutorial 1](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
-    - [Magit tutorial 2](https://github.com/jkitchin/magit-tutorial)
-    - [Magit cheat sheet](http://daemianmack.com/magit-cheatsheet.html)
-    - [Screencast](https://youtu.be/vQO7F2Q9DwA?t=2m44s)
+- [Magit documentation]()
+- [Magit tutorial 1](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
+- [Magit tutorial 2](https://github.com/jkitchin/magit-tutorial)
+- [Magit cheat sheet](http://daemianmack.com/magit-cheatsheet.html)
+- [Screencast](https://youtu.be/vQO7F2Q9DwA?t=2m44s)
 
 ## License
 
