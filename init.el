@@ -8,7 +8,7 @@
 (menu-bar-mode 1)
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
-(set-frame-font "Andale Mono Regular-15" nil t)
+;; (set-frame-font "Andale Mono Regular-15" nil t)
 
 (defalias 'yes-or-no-p 'y-or-n-p)
 
@@ -81,4 +81,3 @@
     (magit-refresh)))
 
 (add-hook 'focus-in-hook 'maybe-magit-refresh)
-
