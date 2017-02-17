@@ -1,5 +1,7 @@
 # smagit - Standalone Magit
 
+![smagit status](https://raw.githubusercontent.com/maio/smagit/master/images/smagit.png)
+
 ## Overview
 
 Git is great, but anyone who has used the command line interface has the scars to prove it. Many resort to [this](https://xkcd.com/1597/). If you feel this pain and are too cool for GUIs, keep reading.
@@ -25,7 +27,6 @@ The purpose of smagit is to provide the glory of Magit for non-Emacs users. This
 
 From the "magit status" screen, get help by hitting the `?` key.
 
-![smagit status](https://raw.githubusercontent.com/maio/smagit/master/images/smagit.png)
 
 Useful links:
 
